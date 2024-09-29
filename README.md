@@ -35,7 +35,7 @@ The model is trained using the following configuration:
 - Optimizer: AdamW
 - Loss Function: CrossEntropyLoss
 - Learning Rate: Dynamically adjusted using a linear learning rate scheduler with warmup.
-- 
+  
 Training Process:
 - Loading the training and validation sets.
 - Training over 2 epochs (can be extended based on the dataset and performance).
