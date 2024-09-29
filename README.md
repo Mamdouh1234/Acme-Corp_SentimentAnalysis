@@ -42,9 +42,6 @@ Training Process:
 - Evaluation on the validation set after each epoch.
 - Early stopping to avoid overfitting, though not used in this example as the training process is quick.
 
-## Evaluation
-The model is evaluated using accuracy and loss metrics on both the validation and test sets. Cross-validation techniques can be employed to ensure robustness.
-
 ## Results
 The final model achieved the following performance:
 
