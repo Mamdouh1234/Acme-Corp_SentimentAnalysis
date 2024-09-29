@@ -1,0 +1,7 @@
+pandas
+torch
+datasets
+transformers
+tqdm
+numpy
+optuna
