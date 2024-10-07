@@ -45,8 +45,8 @@ Training Process:
 ## Results
 The final model achieved the following performance:
 
-Train Accuracy: 96.47%
-Validation Accuracy: 89.91%
+Train Accuracy: 97.34%
+Validation Accuracy: 91.28%
 
 These results demonstrate the model's effectiveness in classifying sentiments to either positive or negative.
 
