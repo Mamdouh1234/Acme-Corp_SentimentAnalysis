@@ -1,6 +1,6 @@
 # Acme-Corp_SentimentAnalysis
 
-A Deep Learning model for classifying semtiments
+A Deep Learning model for classifying sentiments
 
 ## Business Scenario
 In today's competitive e-commerce environment, understanding customer sentiment is more crucial than ever. With the rise of online reviews, social media feedback, and customer interactions, businesses are inundated with data that can significantly impact their strategies. However, manually sifting through this information can be overwhelming and inefficient.
